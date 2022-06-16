@@ -150,4 +150,17 @@ This project includes a documentation website that can be found here:
 17. How to deal with holden image tests failing on CI
 18. Wrap Up
 
+### 8. Feature: Shopping Cart
+
+1. Section Intro
+2. Overview of the shopping cart feature + technical requirements
+3. App Architecture for the shopping cart feature
+4. Starter project + overview of the data and domain layers
+5. Local data persistence with Sembast: Initial setup
+6. How to persist the shopping cart data with the `SembastCartRepository`
+7. Implementing the `CartService` class
+8. Updating the `CartService` class to read dependencies using `Ref`
+9. Writing unit tests using `ProviderContainer`
+10. Writing the unit tests the `CartService` class
+
 ### [LICENSE: MIT](LICENSE.md)
