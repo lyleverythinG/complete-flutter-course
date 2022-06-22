@@ -18,6 +18,7 @@ dependencies:
   intl: 0.17.0 # Used for date and currency formatting
   flutter_layout_grid: 1.0.3 # Used for content-sized items in the products grid layout
   flutter_rating_bar: 4.0.0 # Used for the "leave a rating" feature
+  go_router: 3.0.3
 
 dev_dependencies:
   flutter_test:
